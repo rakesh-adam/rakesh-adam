@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a 3rd year BTech CSE student with a passion for coding and building stuff. Currently, I'm diving deep into Python Full Stack development. When I'm not coding, you can find me geeking out over tech trends or trying to convince myself to start a new hobby 😅. Fun fact: I'm a master of procrastination, but somehow I still manage to get things done 😉. Looking for an internship where I can learn, grow, and maybe even contribute something awesome!"😊
+Hey there! I'm Rakesh Adam Currently Pursuing III year BTech CSE student with a passion for coding and building stuff. Currently, I'm diving deep into Python Full Stack development. When I'm not coding, you can find me geeking out over tech trends or trying to convince myself to start a new hobby 😅. Fun fact: I'm a master of procrastination, but somehow I still manage to get things done 😉. Looking for an internship where I can learn, grow, and maybe even contribute something awesome!"😊
 
 
 ## 🌐 Socials:
